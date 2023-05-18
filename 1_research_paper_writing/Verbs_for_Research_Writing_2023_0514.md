@@ -1,6 +1,4 @@
-
-
-# Verbs for Research Writing
+# Advanced Verbs for Research Writing
 
 Creation Time: 2023-05-14 19:44:25.952835
 
